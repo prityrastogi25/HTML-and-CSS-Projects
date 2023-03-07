@@ -1,2 +1,2 @@
 # HTML-and-CSS-Projects
-Using HTML 
+Using HTML and CSS
